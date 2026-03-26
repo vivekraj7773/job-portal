@@ -13,7 +13,7 @@ const Header =()=>{
             
             <div className="flex gap-2 items-center">
                 <div>Aayushi Didi</div>
-                <Avatar src="vatar.png" alt="it's me" />
+                <Avatar src="avatar.png" alt="it's me" />
             </div>
             <div className="bg-mine-shaft-900 p-1.5 rounded-full">
                 <IconSettings stroke={1.5}/>
